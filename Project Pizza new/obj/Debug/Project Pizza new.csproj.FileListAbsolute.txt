@@ -1,0 +1,22 @@
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.exe.config
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.exe
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.pdb
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.AssemblyReference.cache
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.SuggestedBindingRedirects.cache
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project_Pizza_new.Form1.resources
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project_Pizza_new.Properties.Resources.resources
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.GenerateResource.cache
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.CoreCompileInputs.cache
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.exe
+C:\Users\اكسترا\OneDrive\سطح المكتب\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.pdb
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.exe.config
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.exe
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\bin\Debug\Project Pizza new.pdb
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.AssemblyReference.cache
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.SuggestedBindingRedirects.cache
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project_Pizza_new.Form1.resources
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project_Pizza_new.Properties.Resources.resources
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.GenerateResource.cache
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.csproj.CoreCompileInputs.cache
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.exe
+C:\Root\output\M-2\Exams IPA\Project Pizza new\Project Pizza new\obj\Debug\Project Pizza new.pdb
